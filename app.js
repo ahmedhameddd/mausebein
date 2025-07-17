@@ -1,3 +1,3 @@
 function gruss() {
-  alert("Liebe Grüße von deiner ersten Website!");
+  alert("Du bist die schönste Frauen der Welt");
 }
